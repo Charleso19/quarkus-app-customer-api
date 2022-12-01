@@ -1,5 +1,7 @@
 # customer-api Project
 
+Based on https://developers.redhat.com/blog/2021/05/11/building-an-api-using-quarkus-from-the-ground-up
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
